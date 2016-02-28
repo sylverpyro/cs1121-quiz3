@@ -1,0 +1,7 @@
+if [ -d submitted1 ]
+    then
+    /bin/rm -r submitted1
+    fi
+mkdir submitted1
+cd submitted1
+recover cs1121.sec10 quiz3part1
